@@ -28,7 +28,7 @@ playlist=Config.playlist
 
 HELP = """
 
-<b>Add the bot and User account in your Group with admin rights.
+<b>bot dan akun Pengguna di Grup Anda dengan hak admin.
 
 Start a VoiceChat
 
@@ -38,7 +38,7 @@ You can also use /dplay <song name> to play a song from Deezer.</b>
 
 **Common Commands**:
 
-**/play**  Reply to an audio file or YouTube link to play it or use /play <song name>.
+**/play**  Balas file audio atau tautan YouTube untuk memutarnya atau gunakan /play <nama lagu>.
 **/dplay** Play music from Deezer, Use /dplay <song name>
 **/player**  Show current playing song.
 **/help** Show help for commands
